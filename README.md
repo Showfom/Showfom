@@ -1,5 +1,5 @@
 # <p align="center"><img src="https://s3.rsb.net/images/pig.png" width="200px"> ShowfoM <img src="https://s3.rsb.net/images/pig.png" width="200px"></p>
 
-Hi. I am Showfom, and I am always 18 years old. I created some fantastic staff and some shits.
+Hi. I am Showfom and I am always 18 years old. I have created some fantastic stuff and some shit as well.
 
-I maintain some projects based on my interests.
+Based on my interests, I maintain several projects.
