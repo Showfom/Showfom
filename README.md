@@ -1,5 +1,5 @@
-# <p align="center"><img src="https://s3.rsb.net/images/pig.png" width="200px"> ShowfoM <img src="https://s3.rsb.net/images/pig.png" width="200px"></p>
+# <p align="center"><img src="https://macdn.net/images/pig.png" width="200px"> ShowfoM <img src="https://macdn.net/images/pig.png" width="200px"></p>
 
-Hi. I am Xiufeng Guo (a.k.a. Showfom). I have created some fantastic stuff and some shit as well.
+Hello, I'm Xiufeng Guo (also known as Showfom).
 
-Based on my interests, I maintain several projects.
+I actively maintain several projects inspired by my interests, with a track record that includes both successful and experimental work.
